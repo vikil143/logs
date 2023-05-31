@@ -1,5 +1,5 @@
 {
-  "name": "@viki-components/logs",
+  "name": "@viki/logs",
   "version": "0.0.1",
   "description": "For Logs messages",
   "main": "index.ts",
